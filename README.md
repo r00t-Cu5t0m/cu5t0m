@@ -8,7 +8,7 @@
 
  Sources don't work on 100% but i try fix it.
  I'm not an expert in programming and ioT, but I am learning and will be glad if you correct me and point out a mistakes.
-#=====================================#
+#===============================#
  Здравствуй, товарищ!
 
  Этот репозиторий является основным.
