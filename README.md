@@ -3,6 +3,7 @@
 
  This repository is the main.
  Demo versions and other things are in other repositories.
+ 
  Here placed sources to "platina" device with some patches and fixes.
 
  Sources don't work on 100% but i try fix it.
